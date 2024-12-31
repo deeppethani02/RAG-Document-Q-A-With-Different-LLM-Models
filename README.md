@@ -1,4 +1,4 @@
-# RAG-Document-Q-A-With-Different-LLM-Models
+# RAG Document Q&A With Different LLM Models
 
 ## **Overview**
 This project demonstrates how to implement a **Retrieval-Augmented Generation (RAG)** system using **Streamlit** and **ChatGroq LLMs**. The system processes PDF documents, creates embeddings for document retrieval, and uses various Large Language Models (LLMs) for answering user queries based on the content of the uploaded documents.  
